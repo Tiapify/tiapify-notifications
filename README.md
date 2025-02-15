@@ -4,7 +4,8 @@ Compatible with: QBCore, QBIT, ESX, or any custom framework.
 🔔 Tiapify-Notifications is a sleek, modern, and highly optimized notification system for your FiveM server. Designed for seamless integration, it delivers smooth, visually appealing notifications with support for success, info, warning, and error messages.
 
 🎥 Preview
-(Insert GIF or video showcasing the notifications in action.)
+![Tiapify-Notifications Preview](https://raw.githubusercontent.com/Tiapify/tiapify-notifications/main/image.png)
+
 
 ⚡ Features
 ✅ Standalone – Works with any framework
