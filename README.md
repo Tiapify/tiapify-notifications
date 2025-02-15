@@ -1,4 +1,4 @@
-🚀 Tiapify-Notifications | FiveM Standalone Notification System
+# 🚀 Tiapify-Notifications | FiveM Standalone Notification System
 Compatible with: QBCore, QBIT, ESX, or any custom framework.
 
 🔔 Tiapify-Notifications is a sleek, modern, and highly optimized notification system for your FiveM server. Designed for seamless integration, it delivers smooth, visually appealing notifications with support for success, info, warning, and error messages.
