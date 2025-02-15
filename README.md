@@ -6,6 +6,7 @@ Compatible with: QBCore, QBIT, ESX, or any custom framework.
 🎥 Preview
 ![Tiapify-Notifications Preview](https://raw.githubusercontent.com/Tiapify/tiapify-notifications/main/image.png)
 
+Video Coming soon!
 
 ⚡ Features
 ✅ Standalone – Works with any framework
@@ -14,9 +15,6 @@ Compatible with: QBCore, QBIT, ESX, or any custom framework.
 ✅ Easy setup with minimal configuration
 ✅ Future updates will include full customization options
 
-🌐 Get Tiapify-Notifications
-👉 Purchase Here
+🌐 Get Tiapify-Notifications ($2)
+https://tiapify.tebex.io/category/2895857
 
-📜 Installation & Documentation: (Provide a link if available.)
-
-💬 Need help? Join our Discord Community for support.
